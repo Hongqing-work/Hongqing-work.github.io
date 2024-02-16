@@ -20,7 +20,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo.jpg"
+  avatar           : "photo.png"
   name             : "Burns"
   pronouns         : # example: "she/her"  
   bio              : "Interested in: Submodular/Multi-objective Optimization · Recommender System"
