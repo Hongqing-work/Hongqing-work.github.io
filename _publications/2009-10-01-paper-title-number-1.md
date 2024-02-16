@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Submodular Maximization under the Intersection of Matroid and Knapsack Constraints"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: ''
+date: 2023
+venue: 'Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI'23), Washington, DC'
+paperurl: 'https://ojs.aaai.org/index.php/AAAI/article/view/25510'
+citation: 'Yu-Ran Gu, Chao Bian and Chao Qian. (2023). "Submodular Maximization under the Intersection of Matroid and Knapsack Constraints." <i>Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI'23), Washington, DC</i>.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://ojs.aaai.org/index.php/AAAI/article/view/25510)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Yu-Ran Gu, Chao Bian and Chao Qian. (2023). "Submodular Maximization under the Intersection of Matroid and Knapsack Constraints." <i>Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI'23), Washington, DC</i>.
+
