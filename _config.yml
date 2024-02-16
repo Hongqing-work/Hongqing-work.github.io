@@ -7,7 +7,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "辜宇然(Yu-Ran Gu)"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -20,33 +20,33 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "photo.jpg"
+  name             : "Burns"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Interested in: Submodular/Multi-objective Optimization · Recommender System"
+  location         : "Nanjing"
+  employer         : "Nanjing University(NJU)"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "guyr@lamda.nju.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-1539-9988"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "glb400"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -63,7 +63,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "UniofOxford"  # Replace this with your X / Twitter handle
+  twitter          : # "UniofOxford"  # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
